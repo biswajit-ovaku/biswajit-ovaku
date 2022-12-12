@@ -1,9 +1,11 @@
 <div align="center"> <img  src="https://media4.giphy.com/media/xTiTnx37nc3vjsdeLK/giphy.gif?cid=ecf05e471n6hi1fkpucmyvcxd46ez2i37gdiny8zxhhn6p7q&rid=giphy.gif&ct=g" alt="" width="1100px" height="200px"> </div>
+
+[![](https://visitcount.itsvg.in/api?id=biswajit-oaku&icon=4&color=1)](https://visitcount.itsvg.in)
 <h1 align="center">Hi there 👋🏼 Biswajit Here !</h1>
 
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   
-  
-# 👨🏼‍💻About Me :
+<h1> 👨🏼‍💻About Me :</h1>
 
 ◽ Im a Web Developer💻 a student
 
@@ -24,6 +26,7 @@
             src="https://img.icons8.com/color/512/twitter.png"
             alt="biswajit_0_0_" height="40" width="40" /></a>
  
+ <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 # 🎯Learned Skills :
   <div>
@@ -42,11 +45,30 @@
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white" alt=""> <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white" alt=""> <img src="https://img.shields.io/badge/Windows%2011-0078D4.svg?style=for-the-badge&logo=Windows-11&logoColor=white" alt="">
 <div/>
     
-# ⏳📈 My Stats :
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<!-- # ⏳📈 My Stats : -->
  
+# :<img src="https://camo.githubusercontent.com/93b08cf9dfcbf01a8306ebc9b8acd61b0f4fbd9d2fb7cece3d6dbd6a56060c19/68747470733a2f2f692e696d6775722e636f6d2f5943773437446d2e676966" alt="">:
+  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biswajit-ovaku&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
   
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=biswajit-ovaku&theme=monokai&background=000000)](https://git.io/streak-stats)
   
   
   ![Biswajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=biswajit-ovaku&theme=aura&show_icons=true)
+
+<div align="center">
+  
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  
+  # 📝 QUOTES:
+  
+![](https://quotes-github-readme.vercel.app/api?type=verticl&theme=monokai)
+  
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  
+  # 🤪MEMES:
+  
+ <img src="https://camo.githubusercontent.com/581cc656f5ad77d3f583f4912f0feac3a7d9740b78e9afd4ecea9fe8c0b261fd/68747470733a2f2f7765622d70726f64756374696f6e2d346130612e75702e7261696c7761792e6170702f" alt="" height="350px">
+  
+  </div>
