@@ -2,7 +2,8 @@
 <div align="center"> <img  src="https://media4.giphy.com/media/xTiTnx37nc3vjsdeLK/giphy.gif?cid=ecf05e471n6hi1fkpucmyvcxd46ez2i37gdiny8zxhhn6p7q&rid=giphy.gif&ct=g" alt="" width="1100px" height="200px"> <div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-[![](https://visitcount.itsvg.in/api?id=biswajit-oaku&icon=4&color=1)](https://visitcount.itsvg.in)
+ ![](https://komarev.com/ghpvc/?username=biswajit-ovaku&color=dc143c)
+  
 <h1 align="center">Hi there 👋🏼 Biswajit Here !</h1>
 
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
