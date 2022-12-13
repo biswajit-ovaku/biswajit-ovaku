@@ -58,6 +58,12 @@
   
   
   ![Biswajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=biswajit-ovaku&theme=aura&show_icons=true)
+    
+   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+    
+ # 🏆GitHub Trophies :
+    
+<img src="https://github-profile-trophy.vercel.app/?username=biswajit-ovaku&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">
 
 <div align="center">
   
@@ -74,3 +80,5 @@
  <img src="https://camo.githubusercontent.com/581cc656f5ad77d3f583f4912f0feac3a7d9740b78e9afd4ecea9fe8c0b261fd/68747470733a2f2f7765622d70726f64756374696f6e2d346130612e75702e7261696c7761792e6170702f" alt="" height="350px">
   
   </div>
+    
+ 
