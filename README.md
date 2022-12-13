@@ -19,11 +19,11 @@
             src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"
             alt="biswajit-rana" height="30" width="40" /></a>
 <a href="https://instagram.com/biswajit_0_0_" target="blank_"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="biswajit_0_0_" height="30" width="40" /></a>
+            src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-logo-png-full-colour-glyph.png"
+            alt="biswajit_0_0_" height="30" width="32" /></a>
 <a href="#" target="blank_"><img align="center"
             src="https://cdn.usbrandcolors.com/images/logos/facebook-logo.svg"
-            alt="biswajit_0_0_" height="30" width="40" /></a>
+            alt="biswajit_0_0_" height="33" width="40" /></a>
 <a href="#" target="blank_"><img align="center"
             src="https://img.icons8.com/color/512/twitter.png"
             alt="biswajit_0_0_" height="40" width="40" /></a>
